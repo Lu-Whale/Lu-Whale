@@ -4,7 +4,6 @@
 - 🌱 Be passionate and enjoy Full-stack programming, Professional on Java and JavaScript
 - 📫 Reachable via personal email: lujingyu2919@gmail.com
 - 👀 Please go to my [LinkedIn page](https://www.linkedin.com/in/lucas-jingyu-lu/) for more information.
-- 
 - 💬 Currently open to work, feel free to contact me via email.
 
   Below are some of my most outstanding projects, feel free to check out.
