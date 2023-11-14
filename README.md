@@ -7,7 +7,7 @@
 - 💬 Currently open to work, feel free to contact me via email.
 
 #### Below are some of my most outstanding projects, feel free to check out.
-- ✨ Currently working on the project [JSthermalcomfort](https://github.com/FedericoTartarini/jsthermalcomfort) (update: already published on GitHub)
+- ✨ Currently working on the Open-Source project [JSthermalcomfort](https://github.com/FedericoTartarini/jsthermalcomfort) (update: already published on GitHub)
 <!--
 **Lu-Whale/Lu-Whale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
