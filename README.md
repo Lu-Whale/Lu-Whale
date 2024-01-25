@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Jingyu (Lucas) 👋</h1>
 
----
-
 ### 🎓 Education
 - **Master of IT & Master of IT Management**, Specialised in **Software Engineering**
     - University of Sydney
