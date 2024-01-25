@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas👋
+### Hi there, I'm Jingyu(Lucas)👋
 - 🎓 Master of IT & Master of IT Management, specialized in **Software Engineering**, at University of Sydney.
     - (Listed in Postgraduate High Honour Roll at USYD for outstanding academic performance)
 - 🎓 Bachelor of Computer Science at Beijing Institute of Technology.
