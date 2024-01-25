@@ -3,13 +3,11 @@
     - (Listed in Postgraduate High Honour Roll at USYD for outstanding academic performance)
 - 🎓 Bachelor of Computer Science at Beijing Institute of Technology.
 
-
 - 🌱 Be passionate about Full-stack software development, Professional on Java and JavaScript
   - **Programming Languages**: Java, JavaScript, Python, Golang, C/C++
   - **Frontend**: React, jQuery, Ajax, HTML5, CSS3
   - **Backend**: Spring MVC, SpringBoot, Node.js, Express, Redis, Mybatis, MySQL, MongoDB 
   - **Cloud & Tools**: AWS (EC2, RDS, DynamoDB, S3, VPC), Firebase, Docker, Git
-
 
 - 📫 Reachable via personal email: lujingyu2919@gmail.com
 - 👀 Please go to my [LinkedIn page](https://www.linkedin.com/in/lucas-jingyu-lu/) for more information.
