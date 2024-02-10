@@ -4,7 +4,7 @@
 - **Master of IT & Master of IT Management**, Specialised in **Software Engineering**
     - University of Sydney
     - _Listed in Postgraduate High Honour Roll at USYD for outstanding academic performance_
-- **Bachelor of Computer Science**
+- **BS in Computer Science**
     - Beijing Institute of Technology
 
 ---
